@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42288" started-at="2020-05-02T21:24:22 EDT" finished-at="2020-05-02T21:25:04 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42288" started-at="2020-05-02T21:24:22 EDT" finished-at="2020-05-02T21:25:04 EDT">
+      <class name="LoginRegistration">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:LoginRegistration@76707e36]" name="setUp" is-config="true" duration-ms="6459" started-at="2020-05-02T21:24:23 EDT" finished-at="2020-05-02T21:24:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LoginRegistration@76707e36]" name="getData" duration-ms="2341" started-at="2020-05-02T21:24:29 EDT" data-provider="getTestData" finished-at="2020-05-02T21:24:32 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hirani]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2.309122E7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[raj123@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12 Balcote]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Nodia]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Barasot]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[34521.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:LoginRegistration@76707e36]" name="tearDown" is-config="true" duration-ms="121" started-at="2020-05-02T21:24:32 EDT" finished-at="2020-05-02T21:24:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:LoginRegistration@76707e36]" name="setUp" is-config="true" duration-ms="5513" started-at="2020-05-02T21:24:32 EDT" finished-at="2020-05-02T21:24:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LoginRegistration@76707e36]" name="getData" duration-ms="2240" started-at="2020-05-02T21:24:37 EDT" data-provider="getTestData" finished-at="2020-05-02T21:24:39 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Romiz ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Raza]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2.1432145E7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[romiz32@aol.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[21 Fatehgar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Lahore]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Lahore]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[234512.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Pakistan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:LoginRegistration@76707e36]" name="tearDown" is-config="true" duration-ms="119" started-at="2020-05-02T21:24:39 EDT" finished-at="2020-05-02T21:24:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:LoginRegistration@76707e36]" name="setUp" is-config="true" duration-ms="5736" started-at="2020-05-02T21:24:40 EDT" finished-at="2020-05-02T21:24:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LoginRegistration@76707e36]" name="getData" duration-ms="2637" started-at="2020-05-02T21:24:45 EDT" data-provider="getTestData" finished-at="2020-05-02T21:24:48 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ronju]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mian]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4.5678123E7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ronju876@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12 Bhooter Goli]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Tejgaon]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Dhaka]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1234.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Bangladesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:LoginRegistration@76707e36]" name="tearDown" is-config="true" duration-ms="170" started-at="2020-05-02T21:24:48 EDT" finished-at="2020-05-02T21:24:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:LoginRegistration@76707e36]" name="setUp" is-config="true" duration-ms="5550" started-at="2020-05-02T21:24:48 EDT" finished-at="2020-05-02T21:24:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LoginRegistration@76707e36]" name="getData" duration-ms="2336" started-at="2020-05-02T21:24:54 EDT" data-provider="getTestData" finished-at="2020-05-02T21:24:56 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Thapa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.8076541E7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rana78@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Laxmichandra Lane]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12 Kotra vila]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Kathmundu]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[3214.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Nepal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:LoginRegistration@76707e36]" name="tearDown" is-config="true" duration-ms="300" started-at="2020-05-02T21:24:56 EDT" finished-at="2020-05-02T21:24:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:LoginRegistration@76707e36]" name="setUp" is-config="true" duration-ms="5535" started-at="2020-05-02T21:24:56 EDT" finished-at="2020-05-02T21:25:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LoginRegistration@76707e36]" name="getData" duration-ms="2458" started-at="2020-05-02T21:25:02 EDT" data-provider="getTestData" finished-at="2020-05-02T21:25:04 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shahana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Alamaara]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3.4527188E7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[alamara243@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[401 N Armistead]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[301.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Alexandria]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[22318.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[USA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:LoginRegistration@76707e36]" name="tearDown" is-config="true" duration-ms="128" started-at="2020-05-02T21:25:04 EDT" finished-at="2020-05-02T21:25:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LoginRegistration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
